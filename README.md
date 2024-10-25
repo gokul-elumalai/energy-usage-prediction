@@ -7,4 +7,3 @@ The objective of this project is to develop and train machine learning models th
 ## Description
 
 Electricity is a crucial resource in our daily lives, powering numerous devices such as washing machines, air conditioners, water heaters, dishwashers, and servers. Without effective management, the growing energy demands of these devices can lead to significant electricity costs and increased carbon emissions from power plants, impacting the environment.  This project focuses on the development and training of machine learning models to analyze historical energy usage data, with the goal of predicting future energy consumption trends. Ultimately, this project seeks to promote energy efficiency and empower consumers with the tools necessary for effective energy management.
-
